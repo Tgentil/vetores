@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/trabalho/mtm/vetores/media/videos/main/480p15/partial_movie_files/Introducao/1185818338_820012849_223132457.mp4'
+file 'file:C:/trabalho/mtm/vetores/media/videos/main/480p15/partial_movie_files/Introducao/624642324_3257661881_1784862944.mp4'
+file 'file:C:/trabalho/mtm/vetores/media/videos/main/480p15/partial_movie_files/Introducao/624642324_3542305510_1916581810.mp4'
